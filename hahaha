@@ -1,0 +1,5 @@
+class Batal{
+  public static void main(String[] args){
+    System.out.println("kvo staaaa dibel");
+  }
+}
